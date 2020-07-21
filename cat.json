@@ -1,0 +1,24 @@
+{
+   "category":[
+      {
+         "category_name":"Romantic",
+         "thumb_url":"https://github.com/frankamania/simple-motivationalquotes/blob/master/romanticquotesthumbnail.png?raw=true"
+      },
+      {
+         "category_name":"Breakup",
+         "thumb_url":"https://github.com/frankamania/simple-motivationalquotes/blob/master/breakupquotesthumbnail.png?raw=true"
+      },
+      {
+         "category_name":"Positive",
+         "thumb_url":"https://github.com/frankamania/simple-motivationalquotes/blob/master/positivequotesthumbnail.png?raw=true"
+      },
+      {
+         "category_name":"Life",
+         "thumb_url":"https://github.com/frankamania/simple-motivationalquotes/blob/master/lifequotesthumbnail.png?raw=true"
+      },
+      {
+        "category_name":"Attitude",
+         "thumb_url":"https://github.com/frankamania/simple-motivationalquotes/blob/master/attitudequotesthumbnail.png?raw=true"
+      }
+   ]
+}
